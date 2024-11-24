@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eu te amo, Luisa!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #fdf5e6;
+            color: #333;
+        }
+        h1 {
+            color: #ff1493;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 10px 0;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Eu te amo, Luisa!</h1>
+        <p>Luisa, você é a razão da minha felicidade e o amor da minha vida. Este site é apenas um pequeno gesto para mostrar o quanto você significa para mim.</p>
+        <img src="imagem1.jpg" alt="Foto 1 da Luisa">
+        <img src="imagem2.jpg" alt="Foto 2 da Luisa">
+        <img src="imagem3.jpg" alt="Foto 3 da Luisa">
+        <h2>Nossa História</h2>
+        <p>Desde que te conheci, minha vida mudou para melhor. Cada momento ao seu lado é inesquecível.</p>
+        <h2>Por que te amo</h2>
+        <ul>
+            <li>Seu sorriso ilumina meu mundo.</li>
+            <li>Você é gentil, inteligente e especial.</li>
+            <li>Você me faz a pessoa mais feliz do mundo.</li>
+        </ul>
+        <p><strong>Luisa, eu te amo hoje e sempre!</strong></p>
+    </div>
+</body>
+</html>
